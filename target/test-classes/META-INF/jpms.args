@@ -1,0 +1,4 @@
+--patch-module
+mx.edu.utch.gato=_
+--add-reads
+mx.edu.utch.gato=ALL-UNNAMED
